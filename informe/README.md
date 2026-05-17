@@ -13,7 +13,7 @@ Se utilizó una metodología de **ETL** mediante Python (Pandas, NumPy) para pro
 ## 📈 Visualizaciones
 Aquí puedes insertar imágenes de tus gráficos (por ejemplo, el mapa de América Azul o los resultados de Python):
 
-![Mapa de Análisis Biogenesys](./visuals/america.png)
+![Mapa de Análisis Biogenesys](../visuals/america.png)
 
 ## 💡 Reflexión Personal
 El proyecto permitió consolidar habilidades en la integración de Python con Power BI y la importancia de la limpieza de datos (Pre-procesamiento) para la toma de decisiones de negocio.
