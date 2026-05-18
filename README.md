@@ -19,7 +19,7 @@ Se realizó una limpieza y transformación exhaustiva de datos provenientes de o
 ## 📊 Visualización de Datos (Dashboards)
 Se presentan los hallazgos clave del análisis, realizados en Power BI en la carpeta dashboard:
 
-[dashboard](./dashboard/biogenesys%20proyect%20LopezMelanie.pbit)
+[dashboard](./dashboard)
 
 ## 🎯 Conclusión y Recomendación Estratégica
 
