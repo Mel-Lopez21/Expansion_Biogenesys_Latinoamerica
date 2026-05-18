@@ -11,7 +11,6 @@ Se utilizó una metodología de **ETL** mediante Python (Pandas, NumPy) para pro
 * **Chile y Argentina:** Mercados ideales para productos premium por su alto IDH.
 
 ## 📈 Visualizaciones
-Aquí puedes insertar imágenes de tus gráficos (por ejemplo, el mapa de América Azul o los resultados de Python):
 
 ![Mapa de Análisis Biogenesys](../visuals/america.png)
 
