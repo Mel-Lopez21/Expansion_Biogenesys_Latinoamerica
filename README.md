@@ -21,7 +21,16 @@ Se presentan los hallazgos clave del análisis, realizados en Power BI en la car
 
 [dashboard](./dashboard)
 
-## 🎯 Conclusión y Recomendación Estratégica
+##  Acceso a Datos (Dataset)
+
+Debido a que el dataset maestro contiene más de 12 millones de registros y supera los límites de almacenamiento de GitHub, el archivo original `.csv` se encuentra alojado en un repositorio externo de alta disponibilidad.
+
+Puedes descargar los datos necesarios para replicar este análisis desde el siguiente enlace:
+
+###  [Descargar Dataset de Biogenesys Farma (CSV)](https://drive.google.com/file/d/18FGvT2x1nqA5TQ22P5FyJ5eLXlHprqzj/view)
+
+
+##  Conclusión y Recomendación Estratégica
 
 Tras un exhaustivo proceso de análisis que integró variables epidemiológicas, indicadores socioeconómicos (IDH) y la capacidad instalada de infraestructura sanitaria, el proyecto ha logrado identificar con precisión la ubicación geográfica que ofrece el mayor potencial de retorno y sostenibilidad para la expansión de **Biogenesys Farma**.
 
