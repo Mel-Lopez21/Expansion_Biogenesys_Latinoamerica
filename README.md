@@ -17,22 +17,21 @@ Se realizó una limpieza y transformación exhaustiva de datos provenientes de o
 3.  **Carga:** Integración de Python dentro de Power BI para visualizaciones avanzadas.
 
 ## 📊 Visualización de Datos (Dashboards)
-A continuación, se presentan los hallazgos clave del análisis:
+Se presentan los hallazgos clave del análisis, realizados en Power BI en la carpeta dashboard:
 
-### 1. Análisis de Mortalidad y Comorbilidades
-![Dashboard 1](./visuals/primera%201.jpg)
-*Descripción breve: Se identificó una alta correlación entre factores de riesgo y mortalidad, asegurando un mercado recurrente para tratamientos de enfermedades crónicas.*
+[dashboard](./dashboard/biogenesys%20proyect%20LopezMelanie.pbit)
 
-### 2. Capacidad Hospitalaria y Riesgo por País
-![Dashboard 2](./visuals/segunda%202.jpg)
-*Descripción breve: Segmentación de países según su perfil de riesgo y capacidad de respuesta sanitaria.*
+## 🎯 Conclusión y Recomendación Estratégica
 
-*(Repite este formato para las otras 3 imágenes que tienes)*
+Tras un exhaustivo proceso de análisis que integró variables epidemiológicas, indicadores socioeconómicos (IDH) y la capacidad instalada de infraestructura sanitaria, el proyecto ha logrado identificar con precisión la ubicación geográfica que ofrece el mayor potencial de retorno y sostenibilidad para la expansión de **Biogenesys Farma**.
 
-## 💡 Conclusión y Recomendación de Negocio
-Tras el análisis, se recomienda establecer la **Sede Central en BRASIL**.
-* **Volumen Crítico:** Brasil representa cerca del 50% de la demanda regional analizada, lo que garantiza economías de escala.
-* **Estabilidad:** Muestra una demanda sostenida y resiliente, ideal para la inversión de capital en una planta de producción.
+La decisión final se fundamenta en tres pilares clave detectados durante el estudio:
+1. Identificación del territorio con la mayor concentración de demanda regional.
+2. Correlación directa entre prevalencia de enfermedades crónicas y necesidad de suministro farmacéutico.
+3. Análisis de la densidad poblacional frente a la capacidad de respuesta sanitaria.
 
-## 🧠 Reflexión Personal
-Este proyecto me permitió consolidar habilidades críticas en la comunicación entre **Python y Power BI**. Como Analista de Datos y estudiante de Ingeniería, aprendí que la rigurosidad técnica solo tiene valor si se traduce en una **decisión de negocio** clara y accionable.
+Para conocer el país seleccionado y acceder al desglose detallado de los datos, gráficos comparativos y la justificación técnica completa, consulta el informe final en el siguiente enlace:
+
+### [Ver Informe Final y Selección de Ubicación](./informe/README.md)
+
+---
