@@ -19,16 +19,14 @@ Se realizó una limpieza y transformación exhaustiva de datos provenientes de o
 ## 📊 Visualización de Datos (Dashboards)
 Se presentan los hallazgos clave del análisis, realizados en Power BI en la carpeta dashboard:
 
-[dashboard](./dashboard)
+[Dashboard](./dashboard)
 
 ##  Acceso a Datos (Dataset)
 
 Debido a que el dataset maestro contiene más de 12 millones de registros y supera los límites de almacenamiento de GitHub, el archivo original `.csv` se encuentra alojado en un repositorio externo de alta disponibilidad.
-
 Puedes descargar los datos necesarios para replicar este análisis desde el siguiente enlace:
 
-###  [Descargar Dataset de Biogenesys Farma (CSV)](https://drive.google.com/file/d/18FGvT2x1nqA5TQ22P5FyJ5eLXlHprqzj/view)
-
+[Descargar Dataset de Biogenesys Farma (CSV)](https://drive.google.com/file/d/18FGvT2x1nqA5TQ22P5FyJ5eLXlHprqzj/view)
 
 ##  Conclusión y Recomendación Estratégica
 
